@@ -5,7 +5,13 @@
  *
  * Made By MaterializeCSS.com
  */
+/* Custom styling */
+.aptum-logo{
+  width: 150px;
+}
 
+
+/* Materalize in styling */
 nav ul a,
 nav .brand-logo {
   color: #444;
