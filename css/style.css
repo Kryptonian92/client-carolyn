@@ -7,9 +7,20 @@
  */
 /* Custom styling */
 .aptum-logo{
-  width: 150px;
+  width: 20%;
 }
 
+.main-text{
+  color:#12638c;
+}
+.main-text-sub{
+  color:#051633;
+  color:#0c2042;
+  /* color:darkgrey; */
+}
+.page-hr{
+  width: 100%;
+}
 
 /* Materalize in styling */
 nav ul a,
