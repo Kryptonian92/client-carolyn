@@ -9,6 +9,18 @@
 .aptum-logo{
   width: 25%;
 }
+
+.aptum-logo2{
+  width: 65%;
+}
+
+.client_logo{
+  width:50%;
+}
+
+.button-color{
+  background-color: grey;
+}
 .nav-text{
   /* font-style: oblique; */
   font-weight: bold;
