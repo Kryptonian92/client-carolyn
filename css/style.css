@@ -9,11 +9,9 @@
 .aptum-logo{
   width: 25%;
 }
-
 .aptum-logo2{
   width: 65%;
 }
-
 .client_logo{
   width:50%;
 }
@@ -24,23 +22,38 @@
   background-color: grey;
 }
 .nav-text{
-  /* font-style: oblique; */
   font-weight: bold;
 }
 .main-text{
   color:#12638c;
 }
+.content-text{
+  font-size: 18px;
+}
+.slide-pic{
+  opacity: 0.5;
+}
+.slide-header{
+
+}
+.slide-text{
+  font-size: 140%;
+}
 .main-text-sub{
   color:#051633;
   color:#0c2042;
-  /* color:darkgrey; */
 }
 .page-hr{
   width: 100%;
 }
+.about-pic{
+  width: 100%;
+  border-radius: 30%;
+}
 .footerImage{
   width: 30%;
 }
+
 /* Materalize in styling */
 nav ul a,
 nav .brand-logo {
