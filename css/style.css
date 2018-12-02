@@ -6,6 +6,10 @@
  * Made By MaterializeCSS.com
  */
 /* Custom styling */
+.sticky-top{
+ height: 75px; 
+}
+
 .aptum-logo{
   width: 25%;
 }
