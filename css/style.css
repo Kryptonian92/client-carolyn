@@ -20,9 +20,6 @@
 .client_logo{
   width:50%;
 }
-.slider-image{
-  width: 100px;
-}
 .button-color{
   background-color: grey;
 }
@@ -31,6 +28,23 @@
 }
 .main-text{
   color:#12638c;
+}
+.client-image{
+  width: 80%;
+}
+.client-image-bottom{
+  width: 60%;
+}
+.rightClientPic{
+  width: 90%;
+}
+.client-list{
+  font-size: 25px;
+}
+.client-list-lower{
+  font-size: 25px;
+  margin-left: 10%;
+
 }
 .content-text{
   font-size: 18px;
