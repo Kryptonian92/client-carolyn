@@ -119,7 +119,9 @@ p {
 .icon-block .material-icons {
   font-size: inherit;
 }
-
+.signature{
+  color:#12638c;
+}
 footer.page-footer {
   margin: 0;
 }
